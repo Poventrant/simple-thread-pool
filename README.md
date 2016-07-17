@@ -1,2 +1,2 @@
 # simple-thread-pool
-##一个简单的用java实现的线程池
+## 一个用java实现的简单的的线程池
